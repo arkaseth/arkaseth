@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 export default () => ({  
   website: "https://arkaseth.com/",  
   interests: [  
-    "Web Development", "Technology", "Machine Learning" "Music",  
+    "Web Development", "Technology", "Machine Learning", "Music",  
     "Mathematics", "Physics", "Football", "F1", "Rugby"  
   ],  
   technologies: {  
