@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-export default () => ({
-  website: "https://arkaseth.com/",
-  interests: [
-    "Web Development", "Technology", "Machine Learning" "Music",
-    "Mathematics", "Physics", "Football", "F1", "Rugby"
-  ],
-  technologies: {
-    frontEnd: {
-      css: ["bootstrap"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["django", "flask"],
-      misc: ["bash"]
-    },
-    machineLearning: ["tensorflow", "keras"],
-    databases: ["mongo", "postgres"]
-  },
-  currentlyLearning: ["react", "vue", "pytorch","materialize_css"]
-});
+export default () => ({  
+  website: "https://arkaseth.com/",  
+  interests: [  
+    "Web Development", "Technology", "Machine Learning" "Music",  
+    "Mathematics", "Physics", "Football", "F1", "Rugby"  
+  ],  
+  technologies: {  
+    frontEnd: {  
+      css: ["bootstrap"]  
+    },  
+    backEnd: {  
+      js: ["node", "express"],  
+      python: ["django", "flask"],  
+      misc: ["bash"]  
+    },  
+    machineLearning: ["tensorflow", "keras"],  
+    databases: ["mongo", "postgres"]  
+  },  
+  currentlyLearning: ["react", "vue", "pytorch","materialize_css"]  
+});  
