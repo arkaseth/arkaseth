@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 export default () => ({  
   website: "https://arkaseth.com/",  
   interests: [  
-    "Web Development", "Technology", "Machine Learning", "Music",  
+    "Web Development", "Technology", "Computer Science", "Music",  
     "Mathematics", "Physics", "Football", "F1", "Rugby"  
   ],  
   technologies: {  
@@ -33,5 +33,5 @@ export default () => ({
     machineLearning: ["tensorflow", "keras"],  
     databases: ["mongo", "postgres"]  
   },  
-  currentlyLearning: ["react", "vue", "pytorch","materialize_css"]  
+  currentlyLearning: ["react", "vue", "tailwind_css"]  
 });  
